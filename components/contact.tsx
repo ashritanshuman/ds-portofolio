@@ -25,8 +25,8 @@ export function Contact() {
     {
       icon: Mail,
       label: "Email",
-      value: "alex@datascience.dev",
-      href: "mailto:alex@datascience.dev",
+      value: "ashritai@outlook.com",
+      href: "mailto:ashritai@outlook.com",
     },
     {
       icon: MapPin,
